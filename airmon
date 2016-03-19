@@ -1,3 +1,0 @@
-airmon-ng check kill
-airmon-ng start wlp2s0b1
-airodump-ng --output-format csv -w test.csv wlp2s0b1mon
