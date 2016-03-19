@@ -20,7 +20,7 @@
         </activity>
 
         <service
-                android:name=".com.rychlici.wifilocator.backend.WifiScannerService"
+                android:name=".backend.WifiScannerService"
                 android:exported="false">
         </service>
     </application>

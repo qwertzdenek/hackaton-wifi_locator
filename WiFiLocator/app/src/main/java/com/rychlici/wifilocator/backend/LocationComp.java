@@ -1,7 +1,7 @@
-package com.rychlici.wifilocator.com.rychlici.wifilocator.backend;
+package com.rychlici.wifilocator.backend;
 
-import com.rychlici.wifilocator.com.rychlici.wifilocator.common.Location;
-import com.rychlici.wifilocator.com.rychlici.wifilocator.common.Scan;
+import com.rychlici.wifilocator.common.Location;
+import com.rychlici.wifilocator.common.Scan;
 
 import java.util.Collection;
 import java.util.HashMap;

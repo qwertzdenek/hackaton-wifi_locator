@@ -1,11 +1,11 @@
-package com.rychlici.wifilocator.com.rychlici.wifilocator.backend;
+package com.rychlici.wifilocator.backend;
 
 import android.app.IntentService;
 import android.content.Intent;
 import android.content.Context;
 
 public class WifiScannerService extends IntentService {
-    private static final String ACTION_DATA = "com.rychlici.wifilocator.com.rychlici.wifilocator.backend.action.DATA";
+    private static final String ACTION_DATA = "com.rychlici.wifilocator.backend.action.DATA";
 
     public WifiScannerService() {
         super("WifiScannerService");

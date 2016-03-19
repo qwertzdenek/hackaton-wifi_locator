@@ -8,7 +8,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
-import com.rychlici.wifilocator.com.rychlici.wifilocator.backend.LocationComp;
+import com.rychlici.wifilocator.backend.LocationComp;
 
 public class MainActivity extends AppCompatActivity {
     private LocationComp lc = new LocationComp();

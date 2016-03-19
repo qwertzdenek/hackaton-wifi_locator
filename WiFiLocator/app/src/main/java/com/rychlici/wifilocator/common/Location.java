@@ -1,4 +1,4 @@
-package com.rychlici.wifilocator.com.rychlici.wifilocator.common;
+package com.rychlici.wifilocator.common;
 
 public class Location {
     private double x;

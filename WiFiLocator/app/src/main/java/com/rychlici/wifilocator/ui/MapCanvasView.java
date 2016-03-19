@@ -1,4 +1,4 @@
-package com.rychlici.wifilocator.com.rychlici.wifilocator.ui;
+package com.rychlici.wifilocator.ui;
 
 import android.content.Context;
 import android.content.res.TypedArray;
